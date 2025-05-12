@@ -87,7 +87,7 @@ For a more detailed explanation of how Base64 works and the Python script's logi
 
 Potential improvements for this script include:
 
-* [x] Option to take input from a file.
+* [ ] Option to take input from a file.
 * [ ] Option to output decoded binary data directly to a file.
 * [ ] Ability to *encode* strings to Base64.
 * [ ] Support for other Base64 variants (e.g., URL-safe Base64).
